@@ -1,7 +1,9 @@
 ## Hi there, I'm Trisha Andres 👋
 
 🎓 I just recently graduated with my Bachelor of Science in Computer Science from Clemson University!
+
 💻 Passionate about building clean, accessible front-end applications  
+
 🚀 Always excited to learn new tools and frameworks  
 
 ---
