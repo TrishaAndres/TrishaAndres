@@ -48,7 +48,6 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-andres/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trisha316andres@gmail.com)
 
 ---
